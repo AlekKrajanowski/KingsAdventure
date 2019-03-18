@@ -1,0 +1,40 @@
+C:\Users\Alek\Desktop\Gra na PO\KingsAdventure\KingsAdventure\bin\Debug\KingsAdventure.exe.config
+C:\Users\Alek\Desktop\Gra na PO\KingsAdventure\KingsAdventure\bin\Debug\KingsAdventure.exe
+C:\Users\Alek\Desktop\Gra na PO\KingsAdventure\KingsAdventure\bin\Debug\KingsAdventure.pdb
+C:\Users\Alek\Desktop\Gra na PO\KingsAdventure\KingsAdventure\obj\Debug\KingsAdventure.csprojResolveAssemblyReference.cache
+C:\Users\Alek\Desktop\Gra na PO\KingsAdventure\KingsAdventure\obj\Debug\KingsAdventure.Form1.resources
+C:\Users\Alek\Desktop\Gra na PO\KingsAdventure\KingsAdventure\obj\Debug\KingsAdventure.FormBattleDwarf.resources
+C:\Users\Alek\Desktop\Gra na PO\KingsAdventure\KingsAdventure\obj\Debug\KingsAdventure.FormBattleHuman.resources
+C:\Users\Alek\Desktop\Gra na PO\KingsAdventure\KingsAdventure\obj\Debug\KingsAdventure.FormDwarf.resources
+C:\Users\Alek\Desktop\Gra na PO\KingsAdventure\KingsAdventure\obj\Debug\KingsAdventure.FormInstruction.resources
+C:\Users\Alek\Desktop\Gra na PO\KingsAdventure\KingsAdventure\obj\Debug\KingsAdventure.FormSelectClass.resources
+C:\Users\Alek\Desktop\Gra na PO\KingsAdventure\KingsAdventure\obj\Debug\KingsAdventure.Properties.Resources.resources
+C:\Users\Alek\Desktop\Gra na PO\KingsAdventure\KingsAdventure\obj\Debug\KingsAdventure.csproj.GenerateResource.cache
+C:\Users\Alek\Desktop\Gra na PO\KingsAdventure\KingsAdventure\obj\Debug\KingsAdventure.csproj.CoreCompileInputs.cache
+C:\Users\Alek\Desktop\Gra na PO\KingsAdventure\KingsAdventure\obj\Debug\KingsAdventure.exe
+C:\Users\Alek\Desktop\Gra na PO\KingsAdventure\KingsAdventure\obj\Debug\KingsAdventure.pdb
+C:\Users\Alek\Desktop\Gra na PO\KingsAdventure\KingsAdventure\obj\Debug\KingsAdventure.FormBattleElf.resources
+C:\Users\Alek\Desktop\Gra na PO\KingsAdventure\KingsAdventure\obj\Debug\KingsAdventure.FormElf.resources
+C:\Users\Alek\Desktop\Gra na PO\KingsAdventure\KingsAdventure\obj\Debug\KingsAdventure.FormHuman.resources
+C:\Users\Alek\Desktop\Gra na PO\KingsAdventure\KingsAdventure\obj\Debug\KingsAdventure.TopGamers.resources
+C:\Users\Alek\Desktop\Gra na PO\KingsAdventure\KingsAdventure\obj\Debug\KingsAdventure.Cross.resources
+C:\Users\Alek\Desktop\Projekt gry na PO\Gra na PO\KingsAdventure\KingsAdventure\bin\Debug\KingsAdventure.exe.config
+C:\Users\Alek\Desktop\Projekt gry na PO\Gra na PO\KingsAdventure\KingsAdventure\bin\Debug\KingsAdventure.exe
+C:\Users\Alek\Desktop\Projekt gry na PO\Gra na PO\KingsAdventure\KingsAdventure\bin\Debug\KingsAdventure.pdb
+C:\Users\Alek\Desktop\Projekt gry na PO\Gra na PO\KingsAdventure\KingsAdventure\obj\Debug\KingsAdventure.csprojResolveAssemblyReference.cache
+C:\Users\Alek\Desktop\Projekt gry na PO\Gra na PO\KingsAdventure\KingsAdventure\obj\Debug\KingsAdventure.Cross.resources
+C:\Users\Alek\Desktop\Projekt gry na PO\Gra na PO\KingsAdventure\KingsAdventure\obj\Debug\KingsAdventure.Form1.resources
+C:\Users\Alek\Desktop\Projekt gry na PO\Gra na PO\KingsAdventure\KingsAdventure\obj\Debug\KingsAdventure.FormBattleDwarf.resources
+C:\Users\Alek\Desktop\Projekt gry na PO\Gra na PO\KingsAdventure\KingsAdventure\obj\Debug\KingsAdventure.FormBattleElf.resources
+C:\Users\Alek\Desktop\Projekt gry na PO\Gra na PO\KingsAdventure\KingsAdventure\obj\Debug\KingsAdventure.FormBattleHuman.resources
+C:\Users\Alek\Desktop\Projekt gry na PO\Gra na PO\KingsAdventure\KingsAdventure\obj\Debug\KingsAdventure.FormDwarf.resources
+C:\Users\Alek\Desktop\Projekt gry na PO\Gra na PO\KingsAdventure\KingsAdventure\obj\Debug\KingsAdventure.FormElf.resources
+C:\Users\Alek\Desktop\Projekt gry na PO\Gra na PO\KingsAdventure\KingsAdventure\obj\Debug\KingsAdventure.FormHuman.resources
+C:\Users\Alek\Desktop\Projekt gry na PO\Gra na PO\KingsAdventure\KingsAdventure\obj\Debug\KingsAdventure.FormInstruction.resources
+C:\Users\Alek\Desktop\Projekt gry na PO\Gra na PO\KingsAdventure\KingsAdventure\obj\Debug\KingsAdventure.FormSelectClass.resources
+C:\Users\Alek\Desktop\Projekt gry na PO\Gra na PO\KingsAdventure\KingsAdventure\obj\Debug\KingsAdventure.Properties.Resources.resources
+C:\Users\Alek\Desktop\Projekt gry na PO\Gra na PO\KingsAdventure\KingsAdventure\obj\Debug\KingsAdventure.TopGamers.resources
+C:\Users\Alek\Desktop\Projekt gry na PO\Gra na PO\KingsAdventure\KingsAdventure\obj\Debug\KingsAdventure.csproj.GenerateResource.cache
+C:\Users\Alek\Desktop\Projekt gry na PO\Gra na PO\KingsAdventure\KingsAdventure\obj\Debug\KingsAdventure.csproj.CoreCompileInputs.cache
+C:\Users\Alek\Desktop\Projekt gry na PO\Gra na PO\KingsAdventure\KingsAdventure\obj\Debug\KingsAdventure.exe
+C:\Users\Alek\Desktop\Projekt gry na PO\Gra na PO\KingsAdventure\KingsAdventure\obj\Debug\KingsAdventure.pdb
